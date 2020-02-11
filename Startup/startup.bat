@@ -1,0 +1,1 @@
+for %%i in (/Startup/*.py) do python C:/Startup/%%i

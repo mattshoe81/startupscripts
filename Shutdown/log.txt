@@ -1,0 +1,49 @@
+2020-02-11 11:59:29.919729: Running Startup Script: osu_git.py 
+2020-02-11 12:00:23.664388: Running Startup Script: osu_git.py 
+2020-02-11 12:00:23.667396: cd C:\Users\Matthew.Shoemaker\Documents\OSU\sp2020 & git pull origin master
+2020-02-11 12:00:26.057050: 0
+2020-02-11 12:00:26.058052: cd C:\Users\Matthew.Shoemaker\Documents\OSU\sp2020 & git add --all
+2020-02-11 12:00:26.217998: 0
+2020-02-11 12:00:26.218999: cd C:\Users\Matthew.Shoemaker\Documents\OSU\sp2020 & git commit -m "ShutdownCommit"
+2020-02-11 12:00:26.446339: 1
+2020-02-11 12:00:26.446339: cd C:\Users\Matthew.Shoemaker\Documents\OSU\sp2020 & git push origin master
+2020-02-11 12:00:28.805820: 0
+2020-02-11 12:00:54.580750: Running Startup Script: osu_git.py 
+2020-02-11 12:00:54.581753: cd C:\Users\Matthew.Shoemaker\Documents\OSU\sp2020 & git pull origin master
+2020-02-11 12:00:57.014775: 0
+2020-02-11 12:00:57.015778: cd C:\Users\Matthew.Shoemaker\Documents\OSU\sp2020 & git add --all
+2020-02-11 12:00:57.173410: 0
+2020-02-11 12:00:57.174412: cd C:\Users\Matthew.Shoemaker\Documents\OSU\sp2020 & git commit -m "ShutdownCommit"
+2020-02-11 12:00:57.403796: 1
+2020-02-11 12:00:57.404799: cd C:\Users\Matthew.Shoemaker\Documents\OSU\sp2020 & git push origin master
+2020-02-11 12:00:59.716171: 0
+2020-02-11 12:00:59.717174: 
+
+
+
+2020-02-11 12:01:01.888580: Running Startup Script: osu_git.py 
+2020-02-11 12:01:01.889589: cd C:\Users\Matthew.Shoemaker\Documents\OSU\sp2020 & git pull origin master
+2020-02-11 12:01:05.602466: 0
+2020-02-11 12:01:05.603478: cd C:\Users\Matthew.Shoemaker\Documents\OSU\sp2020 & git add --all
+2020-02-11 12:01:05.762022: 0
+2020-02-11 12:01:05.762524: cd C:\Users\Matthew.Shoemaker\Documents\OSU\sp2020 & git commit -m "ShutdownCommit"
+2020-02-11 12:01:05.983151: 1
+2020-02-11 12:01:05.985157: cd C:\Users\Matthew.Shoemaker\Documents\OSU\sp2020 & git push origin master
+2020-02-11 12:01:08.357324: 0
+2020-02-11 12:01:08.357824: 
+
+
+
+2020-02-11 12:01:23.293742: Running Startup Script: osu_git.py 
+2020-02-11 12:01:23.293742: cd C:\Users\Matthew.Shoemaker\Documents\OSU\sp2020 & git pull origin master
+2020-02-11 12:01:25.808050: 0
+2020-02-11 12:01:25.809050: cd C:\Users\Matthew.Shoemaker\Documents\OSU\sp2020 & git add --all
+2020-02-11 12:01:25.968606: 0
+2020-02-11 12:01:25.969609: cd C:\Users\Matthew.Shoemaker\Documents\OSU\sp2020 & git commit -m "ShutdownCommit"
+2020-02-11 12:01:26.201231: 1
+2020-02-11 12:01:26.201231: cd C:\Users\Matthew.Shoemaker\Documents\OSU\sp2020 & git push origin master
+2020-02-11 12:01:28.465133: 0
+2020-02-11 12:01:28.466137: 
+
+
+
